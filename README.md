@@ -22,7 +22,6 @@ The repository is organized into several directories, each corresponding to diff
 - **meteorites/**: Contains files related to the "Meteorites" project.
 - **moneyball/**: Contains files related to the "Moneyball" project.
 - **players/**: Contains files related to the "Players" project.
-- **project/**: Contains files related to the final course project.
 - **sentimental-connect/**: Contains files related to the "Sentimental Connect" project.
 - **snap/**: Contains files related to the "Snap" project.
 - **views/**: Contains SQL view definitions used across various projects.
@@ -36,7 +35,7 @@ To explore the projects:
    git clone https://github.com/aaryamahajan919/Introduction-to-databases-with-SQL-edX.git
 2. **Navigate to a project directory**:
    ```bash
-   cd Introduction-to-databases-with-SQL-edX/<project-directory>
+   cd Introduction-to-databases-with-SQL-edX/<[project-directory](https://github.com/aaryamahajan919/Music-Player-Database-Final-project)>
 
 Review the SQL scripts and related files to understand the database schemas, queries, and analyses performed.
 
