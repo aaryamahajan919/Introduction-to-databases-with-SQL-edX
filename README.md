@@ -32,10 +32,11 @@ To explore the projects:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aaryamahajan919/Introduction-to-databases-with-SQL-edX.git
+   git clone git clone https://github.com/aaryamahajan919/Music-Player-Database-Final-project
+   
 2. **Navigate to a project directory**:
    ```bash
-   cd Introduction-to-databases-with-SQL-edX/<[project-directory](https://github.com/aaryamahajan919/Music-Player-Database-Final-project)>
+   cd Music-Player-Database-Final-project
 
 Review the SQL scripts and related files to understand the database schemas, queries, and analyses performed.
 
