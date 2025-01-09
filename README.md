@@ -32,7 +32,7 @@ To explore the projects:
 
 1. **Clone the repository**:
    ```bash
-   git clone git clone https://github.com/aaryamahajan919/Music-Player-Database-Final-project
+   git clone https://github.com/aaryamahajan919/Music-Player-Database-Final-project
    
 2. **Navigate to a project directory**:
    ```bash
