@@ -43,6 +43,9 @@ Review the SQL scripts and related files to understand the database schemas, que
 ## Acknowledgments
 This repository is based on coursework from the "Introduction to Databases with SQL" course offered by edX. Special thanks to the course instructors and the edX platform for providing comprehensive materials and guidance.
 
+## Check out my certificate here
+- [Certificate](https://certificates.cs50.io/da8ad414-dea7-4442-b8d1-728233fd61d4.pdf?size=letter)
+
 ## Contact
 For questions or feedback, please contact:
 Name: Aarya Mahajan
